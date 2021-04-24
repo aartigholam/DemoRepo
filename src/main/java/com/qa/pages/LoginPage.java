@@ -9,4 +9,8 @@ public class LoginPage {
 	public void Loginset() {
 		System.out.println("Login set");
 	}
+	
+	public void Loginset() {
+		System.out.println("Login set");
+	}
 }
